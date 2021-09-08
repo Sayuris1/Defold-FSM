@@ -1,0 +1,6 @@
+[project]
+title = LuaFSM
+
+[library]
+include_dirs = fsm
+
